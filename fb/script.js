@@ -42,7 +42,7 @@ gender:{
 messages:{
 
     fname:{
-required:"ender first name",
+required:"Enter first name",
 minlength:"Enter atleast 4 characters"
     }
 }
